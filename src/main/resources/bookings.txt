@@ -1,0 +1,5 @@
+movie_name/time/seats_booked/seats_available
+The suicide squad/2022-10-15 04:47/3/50
+Shang-Chi and the Legend of the Ten Rings/2022-10-30 05:37/10/20
+Shang-Chi and the Legend of the Ten Rings/2022-10-30 05:40/10/20
+The suicide squad/2022-10-16 10:47/30/5

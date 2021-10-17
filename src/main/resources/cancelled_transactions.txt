@@ -1,0 +1,4 @@
+timestamp/user/reasons
+2021-10-15 04:47:40/joe/timeout
+2021-10-15 04:47:40/anonymous/card payment failed
+2021-10-16 09:20:48/alex/card payment failed

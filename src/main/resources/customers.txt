@@ -1,0 +1,6 @@
+username/password/cardholder_name/credit_card_number
+joe/123456/Charles/40691
+alex/56789/null/null
+jack/1111111/Sergio/42689
+emily/777777/Kasey/60146
+billy/bbb123/null/null

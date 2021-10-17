@@ -1,0 +1,3 @@
+movie_name/synopsis/classification/release_date/director/cast/screen_size
+The suicide squad/Welcome to hell: .k.a. Belle Reve, the prison with the highest mortality rate in the US of A./R18+/2021-08-30/James Gunn/Sylvester Stallone, Jai Courtney, Viola Davis, Nathan Fillion, Idris Elba, Alice Braga/Gold#25,Bold#60,Silver#27
+Shang-Chi and the Legend of the Ten Rings/Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organisation/MA15+/2021-09-2/Destin Daniel Cretton/Simu Liu,Tony Leung,Awkwafina/Bold#12,Gold#27
